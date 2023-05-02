@@ -8,5 +8,6 @@ This application is inspired by Airbnb, where we bring its similarity of the mai
 🇪🇸 Nombre del Proyecto: Cjvebnb.
 
 Esta aplicación está inspirada en Airbnb, donde traemos su similitud de la página principal, toda la página fue realizada con Html, React Js, sus principales Hooks y Material UI, el estilo que se utilizó fue el del Material UI directamente.
+![cjvebnb1](https://user-images.githubusercontent.com/104727028/235559285-4b9d807d-93ea-4052-8769-2230eed25e92.PNG)
 
 Web Site: https://cjvebnb.web.app/
